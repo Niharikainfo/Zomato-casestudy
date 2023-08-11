@@ -4,13 +4,13 @@ This project revolves around a database inspired by Zomato, a popular food deliv
 
 # Tables:
 
-Users: Contains user information such as user ID, name, email, and password.
-Food: Stores food-related details like f_ID, f_name, and type.
-Restaurants: Holds data about restaurants, including r_ID, r_name and cuisine.
-Orders: Captures order details like order_ID, user_ID, r_ID,amount,date,partner_id,delivery_time,delivery_rating and restaurant_rating.
-Order_Details: Records information about individual items within order_id,id and f_id.
-Menu: Stores the menu items available in restaurants, including menu memu_id, f_id,r_id and price.
-Delivery_Partners: Contains details about delivery partners like partner_id and partner_name.
+1.Users: Contains user information such as user ID, name, email, and password.
+2.Food: Stores food-related details like f_ID, f_name, and type.
+3.Restaurants: Holds data about restaurants, including r_ID, r_name and cuisine.
+4.Orders: Captures order details like order_ID, user_ID, r_ID,amount,date,partner_id,delivery_time,delivery_rating and restaurant_rating.
+5.Order_Details: Records information about individual items within order_id,id and f_id.
+6.Menu: Stores the menu items available in restaurants, including menu memu_id, f_id,r_id and price.
+7.Delivery_Partners: Contains details about delivery partners like partner_id and partner_name.
 
 # Objectives:
 
